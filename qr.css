@@ -1,0 +1,62 @@
+body{
+    width: 1440px;
+    background-color:hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: Outfit;
+    position: relative;
+    top:50px;
+    display: flex;
+    justify-content: center;
+    overflow:hidden
+     
+}
+h3{
+    font-family: Outfit;
+    font-weight: 700;
+    font-size: 16px;
+    position:relative;
+    bottom:240px;
+color: rgb(26, 32, 81);
+
+    
+}
+
+p{
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+    font-size: 11px;
+    position:relative;
+    bottom:245px;
+ 
+}
+
+#image-QR{ width: 200px;
+    position: relative;
+bottom:240px;
+border-radius:10px;   
+
+}
+.flexbox-container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+   
+}
+.flexbox-item{
+    border: solid,white;
+    width: 215px;
+  border-radius: 17px;
+  border-bottom-width: 350px;
+ text-align: center;
+ margin:0px;
+ position:relative;
+ top: 100px;  
+   
+}
+
+
+
+
+
